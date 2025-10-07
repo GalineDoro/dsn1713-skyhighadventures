@@ -6,3 +6,17 @@ body {
   color: white;
   background-color: black;
 }
+
+#hero {
+  height: 70vh;
+  background-color: #F54F95;
+
+  background-image: url(../images/pexels-jordicosta-31427172.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
